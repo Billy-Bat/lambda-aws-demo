@@ -2,7 +2,7 @@
 name = "aws-lambda-demo"
 version = "1.1.0"
 description = "a test package to deploy an aws lambda function"
-authors = ["Guillaume Gonde <guillaume.gonde@sicara.com>"]
+authors = ["Guillaume Gonde <gguillaume.gonde@gmail.com>"]
 license = "MIT"
 readme = "README.md"
 
